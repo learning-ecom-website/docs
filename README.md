@@ -1,2 +1,4 @@
 # docs
-Docs for the project
+Привет! 
+
+[Бизнес документация](business-docs/README.md)
